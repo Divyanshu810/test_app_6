@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 Complete Ruby on rails!
+
+First test repo for Complete RoR by Divyanshu
